@@ -1,0 +1,12 @@
+sw: 			SFML-2.3.2
+sw_link: 		http://www.sfml-dev.org/files/SFML-2.3.2-sources.zip
+sw_license: 		zlib/png license
+sw_license_file: 	../license.txt
+sw_scm: 		https://github.com/SFML/SFML
+
+target: 		Nuwen_MinGW_13.5
+target_link: 		http://nuwen.net/files/mingw/history/mingw-13.5.exe
+gcc_version: 		5.3.0
+
+build_date: 		2016_05_10
+build_time: 		CET+17+48
