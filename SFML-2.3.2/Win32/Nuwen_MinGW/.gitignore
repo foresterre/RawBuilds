@@ -1,0 +1,7 @@
+build/build.py
+build/build.ps1
+build/source/
+include/
+
+*.a
+*.dll

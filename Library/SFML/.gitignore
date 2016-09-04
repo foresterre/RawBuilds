@@ -1,7 +1,0 @@
-_build/build.py
-_build/source/
-
-include
-
-*.a
-*.dll
